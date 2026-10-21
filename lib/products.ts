@@ -2,7 +2,7 @@ export type Category = 'Electronics' | 'Fashion Accessories' | 'Home & Living' |
 export type Product = { id: string; name: string; category: Category; description: string; price: number; stock: number; image: string; featured?: boolean; isNew?: boolean }
 
 const imagePool = [
-  'photo-1505740420928-5e560c06d30e','photo-1523275335684-37898b6baf30','photo-1608043152269-423dbba4e7e1','photo-1587829741301-dc798b83add3','photo-1527814050087-3793815479db','photo-1609592424664-4b2aa9d4c5b2','photo-1527443224154-c4a3942d3acf','photo-1586023492125-27b2c045efd7','photo-1553062407-98eeb64c6a62','photo-1627123424574-724758594e93','photo-1511499767150-a48a237f0083','photo-1524805444758-089113d48a6d','photo-1517836357463-d25dfeac3438','photo-1542291026-7eec264c27ff','photo-1545239351-1141bd82e8a6','photo-1494438639946-1ebd1d20bf85'
+  'photo-1505740420928-5e560c06d30e','photo-1523275335684-37898b6baf30','photo-1608043152269-423dbba4e7e1','photo-1587829741301-dc798b83add3','photo-1527814050087-3793815479db','photo-1503602642458-232111445657','photo-1527443224154-c4a3942d3acf','photo-1586023492125-27b2c045efd7','photo-1553062407-98eeb64c6a62','photo-1627123424574-724758594e93','photo-1511499767150-a48a237f0083','photo-1524805444758-089113d48a6d','photo-1517836357463-d25dfeac3438','photo-1542291026-7eec264c27ff','photo-1545239351-1141bd82e8a6','photo-1494438639946-1ebd1d20bf85'
 ]
 
 const catalog: Array<[string, Category, number, string]> = [
