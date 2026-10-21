@@ -64,7 +64,14 @@ This is a front-end demonstration. localStorage is not a secure database, client
 
 ## Screenshots
 
-Add deployment screenshots here after publishing the capstone.
+### Homepage
+![NovaCart Pro Homepage](Screenshot%202026-10-21%20225957.png)
+
+### Product Catalog
+![NovaCart Pro Product Catalog](Screenshot%202026-10-21%20230022.png)
+
+### Admin Dashboard
+![NovaCart Pro Admin Dashboard](Screenshot%202026-10-21%20230039.png)
 
 ## Future improvements
 
