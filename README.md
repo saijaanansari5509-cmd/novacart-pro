@@ -65,13 +65,13 @@ This is a front-end demonstration. localStorage is not a secure database, client
 ## Screenshots
 
 ### Homepage
-![NovaCart Pro Homepage](Screenshot%202026-10-21%20225957.png)
+![NovaCart Pro Homepage](screenshots/Screenshot%202026-10-21%20225957.png)
 
 ### Product Catalog
-![NovaCart Pro Product Catalog](Screenshot%202026-10-21%20230022.png)
+![NovaCart Pro Product Catalog](screenshots/Screenshot%202026-10-21%20230022.png)
 
 ### Admin Dashboard
-![NovaCart Pro Admin Dashboard](Screenshot%202026-10-21%20230039.png)
+![NovaCart Pro Admin Dashboard](screenshots/Screenshot%202026-10-21%20230039.png)
 
 ## Future improvements
 
